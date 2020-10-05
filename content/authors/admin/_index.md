@@ -18,24 +18,25 @@ organizations:
   url: "https://www.uio.no"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include particle physics, machine learning and c.
+bio: Lorem ipsum
+# My research interests include particle physics, machine learning and computational chemistry.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Particle Physics
+- Machine Learning
+- Computational Chemistry
 
 education:
   courses:
   - course: PhD in Physics
     institution: University of Oslo
-    year: 2016 - 
+    year: 2016- 
   - course: MSc in Physics and Astronomy
     institution: Vrije Universiteit Brussel
-    year: 2014 - 2016
+    year: 2014-2016
   - course: BSc in Physics and Astronomy
     institution: Vrije Universiteit Brussel
-    year: 2011 - 2014
+    year: 2011-2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -80,6 +81,4 @@ user_groups:
 - Visitors
 ---
 
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
